@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">HR Prima</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="cont">CONTINUE</string>
+
+    <string name="slide_1_title">Welcome to HR Prima</string>
+    <string name="slide_1_desc">Leverage the Power of the Ultimate HR Application!</string>
+    <string name="slide_2_title">Employee Set Up</string>
+    <string name="slide_2_desc">Leverage the Power of the Ultimate HR Application!</string>
+    <string name="slide_3_title">Payroll Management</string>
+    <string name="slide_3_desc">Leverage the Power of the Ultimate HR Application!</string>
+
+    <string name="add_emp">Add Employee</string>
+    <string name="delete_emp">Delete Employee</string>
+    <string name="list_emp">List Employee</string>
+    <string name="update_emp">Update Employee</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="search">Search</string>
+    <string name="account">Account</string>
+    <string name="profile">Profile</string>
+
+    <!--Add Employee -->
+    <string name="add_emp_title">Add Employee</string>
+    <string name="add_emp_name">Name:</string>
+    <string name="add_emp_design">Designation:</string>
+    <string name="add_emp_department">Department:</string>
+    <string name="add_emp_email">Email:</string>
+    <string name="add_emp_salary">Salary:</string>
+    <string name="add_emp_submit">Submit</string>
+
+</resources>
+
+
+
+
